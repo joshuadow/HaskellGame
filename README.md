@@ -1,3 +1,5 @@
-# Haskell
-Implementation of Apocalpyse
-Completed By: Stepan Fedorko-Bartos, Joshua Dow, Clayton Vis, Samuel Raemy, Keith van der Meulen
+# Haskell-Apocalypse
+CPSC 449 Group Project - Haskell Implementation of the Chess Game Apocalypse
+
+
+### [Docs](http://kremer.cpsc.ucalgary.ca/courses/cpsc449/W2016/ApocDoc/)
